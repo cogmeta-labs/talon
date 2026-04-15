@@ -29,5 +29,5 @@ body:
     id: version
     attributes:
       label: Talon version
-      description: "Run `cogz --version` to find this"
+      description: "Run `talon --version` to find this"
       placeholder: "0.7.3"

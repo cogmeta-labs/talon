@@ -7,7 +7,7 @@ Talon is a context intelligence engine that sits between your codebase and your 
 ## Install
 
 ```bash
-pip install cogz
+pip install talon
 ```
 
 Requires Python 3.10+.
@@ -16,11 +16,11 @@ Requires Python 3.10+.
 
 ```bash
 # 1. Authenticate
-cogz auth
+talon auth
 
 # 2. Navigate to your project and initialise
 cd your-project
-cogz init
+talon init
 
 # 3. Start coding — Talon is now active
 claude
