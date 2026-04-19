@@ -7,7 +7,7 @@ Talon is a context intelligence engine that sits between your codebase and your 
 ## Install
 
 ```bash
-pip install cogmeta-talon
+pipx install cogmeta-talon
 ```
 
 Requires Python 3.10+.
