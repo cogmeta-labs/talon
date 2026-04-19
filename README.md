@@ -7,7 +7,7 @@ Talon is a context intelligence engine that sits between your codebase and your 
 ## Install
 
 ```bash
-pip install talon
+pip install cogmeta-talon
 ```
 
 Requires Python 3.10+.
@@ -16,7 +16,7 @@ Requires Python 3.10+.
 
 ```bash
 # 1. Authenticate
-talon auth
+talon auth login
 
 # 2. Navigate to your project and initialise
 cd your-project
@@ -47,6 +47,11 @@ Talon integrates with Claude Code through the [Model Context Protocol (MCP)](htt
 - [Documentation & Quickstart](https://cogmeta.ai/quickstart)
 - [How It Works](https://cogmeta.ai/howitworks)
 - [Evidence & Benchmarks](https://cogmeta.ai/research)
+- [Support](https://cogmeta.ai/support)
+
+## Community
+
+- [Issues & Bug Reports](https://github.com/cogmeta-labs/talon/issues)
 - [Support](https://cogmeta.ai/support)
 
 ## License
